@@ -1,0 +1,28 @@
+.userPhoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+
+}
+.userData {
+    display: flex;
+    flex-direction: row;
+    border: #16547a solid 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 800px;
+    border-radius: 30px;
+}
+.imgButton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+.userInfo {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+}
